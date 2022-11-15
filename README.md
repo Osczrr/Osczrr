@@ -11,3 +11,5 @@
 [Favorite Games](https://github.com/Osczrr/Osczrr/blob/main/LinkedMD.md) 
 <br></br>
 [Favorite Anime](https://github.com/Osczrr/Osczrr/blob/main/Anime.md)
+<br></br>
+[Aesthetic](https://github.com/Osczrr/Osczrr/blob/main/Aesthetics.md)
