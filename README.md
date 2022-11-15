@@ -3,7 +3,8 @@
 
 ---
 <h3>School</h3>
-Mizzou 2024
+
+[Places I attended](https://github.com/Osczrr/Osczrr/blob/main/SchoolMD.md) 
 <br></br>
 <h3>About Me</h3>
 
