@@ -1,3 +1,2 @@
 **Oscar**
-X^2^
-[title](https://www.example.com)
+[Favorite Games](https://github.com/Osczrr/Osczrr/blob/main/LinkedMD.md)
