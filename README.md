@@ -13,3 +13,4 @@
 [Favorite Anime](https://github.com/Osczrr/Osczrr/blob/main/Anime.md)
 <br></br>
 [Aesthetic](https://github.com/Osczrr/Osczrr/blob/main/Aesthetics.md)
+<br></br>
