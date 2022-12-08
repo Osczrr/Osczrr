@@ -4,7 +4,7 @@
 ---
 | Server Type | Price | Pros | Cons |
 | ----------- | ----------- | ----------- | ------ |
-| SAN | Title | test | - |
-| DAS | Performace | Performace | No storage expansion |
-| NAS | Text | test | - |
-| Cloud | Text | test | - |
+| SAN | Expensive | test | - |
+| DAS | Cheap-Expensive | Performace | No storage expansion |
+| NAS | Expensive | Fast & High storage amount | - |
+| Cloud | Cheap-Expensive | test | - |
