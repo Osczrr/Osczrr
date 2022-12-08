@@ -1,5 +1,6 @@
 ---
-<h2 align="center"> A Tutorial on </h2>
+<h2 align="center">How server storage works</h2>
+<h4 align="center">A tutorial by Oscar Schwartz</h4>
 
 ---
 <h3>School</h3>
