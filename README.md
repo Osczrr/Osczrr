@@ -8,13 +8,13 @@
 
 [What is a Server](https://github.com/Osczrr/Osczrr/blob/main/WhatisaServer.md)
 <br></br>
-[How Servers can be used](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+[How Servers can be used](https://github.com/Osczrr/Osczrr/blob/main/ServerUse.md)
 <br></br>
 [Types of Servers](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
 [What is Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
-[Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+[Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServerStorage.md)
 <br></br>
 
 <br></br>
