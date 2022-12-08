@@ -9,4 +9,4 @@
  <br></br> 
  Servers are able to store, send, receive, protect, configure and allocate data.
   <br></br> 
-  But there is so much more a server can do it and it just depends on how the server creator/user wants to use it</h5>
+  There is so much more a server can do- it just depends on how the server creator/manager wants to use it</h5>
