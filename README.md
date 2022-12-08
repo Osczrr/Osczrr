@@ -3,7 +3,8 @@
 <h4 align="center">A tutorial by Oscar Schwartz</h4>
 
 ---
-<h3>School</h3>
+<h3></h3>
+<h5>In this tutorial I would like to explain how data is allocated on a server to help you better understand how server storage works</h5>
 
 [Places I attended](https://github.com/Osczrr/Osczrr/blob/main/.md) 
 <br></br>
