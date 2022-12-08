@@ -1,5 +1,5 @@
 ---
-<h2 align="center">Servers and Server Storage</h2>
+<h1 align="center">Servers and Server Storage</h1>
 <h4 align="center">A tutorial by Oscar Schwartz</h4>
 
 ---
