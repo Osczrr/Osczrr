@@ -12,7 +12,7 @@
 <br></br>
 [Types of Servers](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
-[What is Server Storage](https://github.com/Osczrr/Osczrr/blob/main/WhatisServerStorage.md)
+[What is a Storage Server](https://github.com/Osczrr/Osczrr/blob/main/WhatisServerStorage.md)
 <br></br>
 [Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServerStorage.md)
 <br></br>
