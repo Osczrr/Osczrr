@@ -4,11 +4,11 @@
 
 ---
 <h3></h3>
-<h5>In this tutorial I would like to explain how data is allocated on a server to help you better understand how server storage works</h5>
+<h5>In this tutorial I would like to explain how data is stored on a server to help you better understand how server storage works. Everything on a server from data to applications repositories are stored so that data is not compromised or lost. This tutorial is for beginners and although we will get into detail, servers are much more complex then what I'm going to be able to explain today. Lets start off with:</h5>
 
-[How Servers work](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+[What is a Server](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
-[Types of Servers](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+[Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
 <h3>The basic explination of a server</h3>
 
