@@ -8,11 +8,6 @@
 
 [Places I attended](https://github.com/Osczrr/Osczrr/blob/main/.md) 
 <br></br>
-<h3>About Me</h3>
+<h3>The basic explination of a server</h3>
 
-[Favorite Games](https://github.com/Osczrr/Osczrr/blob/main/) 
-<br></br>
-[Favorite Anime](https://github.com/Osczrr/Osczrr/blob/main/)
-<br></br>
-[Aesthetic](https://github.com/Osczrr/Osczrr/blob/main/.md)
 <br></br>
