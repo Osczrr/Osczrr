@@ -1,16 +1,16 @@
 ---
-<h2 align="center"> Oscar Schwartz </h2>
+<h2 align="center"> A Tutorial on </h2>
 
 ---
 <h3>School</h3>
 
-[Places I attended](https://github.com/Osczrr/Osczrr/blob/main/SchoolMD.md) 
+[Places I attended](https://github.com/Osczrr/Osczrr/blob/main/.md) 
 <br></br>
 <h3>About Me</h3>
 
-[Favorite Games](https://github.com/Osczrr/Osczrr/blob/main/LinkedMD.md) 
+[Favorite Games](https://github.com/Osczrr/Osczrr/blob/main/) 
 <br></br>
-[Favorite Anime](https://github.com/Osczrr/Osczrr/blob/main/Anime.md)
+[Favorite Anime](https://github.com/Osczrr/Osczrr/blob/main/)
 <br></br>
-[Aesthetic](https://github.com/Osczrr/Osczrr/blob/main/Aesthetics.md)
+[Aesthetic](https://github.com/Osczrr/Osczrr/blob/main/.md)
 <br></br>
