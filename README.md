@@ -1,5 +1,5 @@
 ---
-<h2 align="center">How server storage works</h2>
+<h2 align="center">Servers and Server Storage</h2>
 <h4 align="center">A tutorial by Oscar Schwartz</h4>
 
 ---
@@ -8,8 +8,13 @@
 
 [What is a Server](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
+[How Servers can be used](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+<br></br>
+[Types of Servers](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+<br></br>
+[What is Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+<br></br>
 [Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
-<h3>The basic explination of a server</h3>
 
 <br></br>
