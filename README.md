@@ -7,6 +7,7 @@
 <h5>In this tutorial I would like to explain how data is allocated on a server to help you better understand how server storage works</h5>
 
 [How Servers work](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
+<br></br>
 [Types of Servers](https://github.com/Osczrr/Osczrr/blob/main/TypesofServers.md)
 <br></br>
 <h3>The basic explination of a server</h3>
