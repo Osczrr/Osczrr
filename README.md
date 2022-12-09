@@ -17,5 +17,4 @@
 [Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServerStorage.md)
 <br></br>
 
-<br></br>
 ---
