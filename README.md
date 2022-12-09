@@ -20,6 +20,6 @@
 <br></br>
 [How Files are Transffered](https://github.com/Osczrr/Osczrr/blob/main/FileTransfer.md)
 <br></br>
-[The history of Servers](https://github.com/Osczrr/Osczrr/blob/main/ServerHistory.md)
+[The History of Servers](https://github.com/Osczrr/Osczrr/blob/main/ServerHistory.md)
 
 ---
