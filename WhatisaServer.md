@@ -7,3 +7,7 @@
 Servers are very versitile and can be used to do many different things- almost anything that the client/user could need.
 <br></br>
 All servers that have data on them have to have some way to store that data in them, therefore all servers must have some sort of storge by default.</h5>
+
+---
+
+[Back](https://github.com/Osczrr/Osczrr/blob/main/README.md)
