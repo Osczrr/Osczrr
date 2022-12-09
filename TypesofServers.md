@@ -12,3 +12,7 @@
 | Print Server | Used to connect printers over a network instead of physical connection |
 | Database Server | Stores data in organized tables so it's easier to access |
 | Game Server | Allows multiplayer capibilities |
+
+---
+
+[Back](https://github.com/Osczrr/Osczrr/blob/main/README.md)
