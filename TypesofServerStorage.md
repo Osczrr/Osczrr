@@ -8,3 +8,7 @@
 | DAS | Cheap-Expensive | Performace | No storage expansion |
 | NAS | Expensive | Fast & High storage amount | Requires wires/another computer|
 | Cloud | Cheap-Expensive | Different amounts of storage can be chosen | Requires internet connection |
+
+---
+
+[Back](https://github.com/Osczrr/Osczrr/blob/main/README.md)
