@@ -18,5 +18,6 @@
 <br></br>
 [Types of Server Storage](https://github.com/Osczrr/Osczrr/blob/main/TypesofServerStorage.md)
 <br></br>
+[How Files are Transffered](https://github.com/Osczrr/Osczrr/blob/main/FileTransfer.md)
 
 ---
